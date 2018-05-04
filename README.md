@@ -1,4 +1,5 @@
-<img alt="365 Challenge" src="./365-banner.png" width=100%/>
+![](./365-banner.png "365 Challenge")
+
 # 365
 ---
 Self explanatory! Pushing code every day for 365 days! 🙌🏻
