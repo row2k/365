@@ -8,3 +8,4 @@ Self explanatory! Pushing code every day for 365 days! 🙌🏻
 |Day|When?|What?|With?|Why?|
 |---|---|---|---|---|
 |1|May 4, 2018|[Video Labeling](https://github.com/row2k/video-labels)|python|auto-populate useful metadata for videos.|
+|2|May 5, 2018|[Spinning Like](https://codepen.io/row2k-the-reactor/pen/QrqOpe)|css/JS|alternative likes e.g.mousedown accelerate spinning(broken)|
