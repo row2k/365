@@ -11,3 +11,4 @@ Self explanatory! Pushing code every day for 365 days! 🙌🏻
 |2|May 5, 2018|[Spinning Like](https://codepen.io/row2k-the-reactor/pen/QrqOpe)|css/JS|alternative likes e.g.mousedown accelerate spinning(broken)|
 |3|May 6, 2018|[Passive Voice Detect ](https://github.com/row2k/passive-voice)|python|detect passive voice in paragraph like [hemingway](http://www.hemingwayapp.com/)|
 |4|May 7, 2018|[Helium](https://github.com/row2k/Helium)|JS|adding more onto this minimalistic boilerplate|
+|5|May 8, 2018|[Recolor BW Images](https://github.com/row2k/rgb-aligner)|python|building on joseph's rgb-aligner|
